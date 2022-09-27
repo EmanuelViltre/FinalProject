@@ -15,7 +15,7 @@ Instructions:
 
 1.  Clone the project (or download the zip file)
 
-        - *git clone
+        - *git clone https://github.com/EmanuelViltre/FinalProject.git
 
 2.  Install project dependencies:
 
